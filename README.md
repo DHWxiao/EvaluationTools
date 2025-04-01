@@ -137,6 +137,7 @@
 1. 为了工具不被滥用，系统使用需导入专业授权文件，授权申请过程：
     - 双击 EvaluationTools_winGui_version.exe （确保同目录下有下载自带的 EvaluationTools-license.lic 文件）
     - 软件路径下会生成	EvaluationTools-license.lic.txt 授权申请码
+    - 首次申请可获得 15 天授权，后续授权申请需做点贡献（作业指导书、被采纳的建议、bug等），收集到的作业指导书会以加密的形式放到自定义作业指导书功能模块中供大家使用
     - 添加微信:xhuSoul 
     - 将 EvaluationTools-license.lic.txt 文件中的授权申请码通过 VX 发送给作者进行授权申请
     - ![image](https://github.com/user-attachments/assets/6e36610a-dfbc-4ad1-9f83-3076b5713c5b)
