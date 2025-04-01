@@ -57,10 +57,11 @@
     - 注意事项：
         - 在现场测评阶段中，可以使用 GUI 版本中的差距分析模块进行记录填写，在完成现场记录的同时，系统将会生成相应的现场记录表、差距分析报告
         - 当完成主机操作系统合规性检查后，可以将对应生成的 .sqlite3 文件拷贝至测评主机上，在测评主机上执行 GUI 版本，通过数据库导入功能模块生成 HTML 结果页，可查看、下载生成的现场记录表以及差距分析报告。
-        - GUI 版本可以执行 Linux 远程合规性检查与 Windows 本地自检，若被测系统是 Windows 系统，不建议将 GUI 版本拷贝至被测系统中执行自检任务，因为 GUI 版本默认合规性检查完成后会启用 HTML 结果页。
+        - GUI 版本可以执行 Linux 远程合规性检查与 Windows 本地自检，若被测系统是 Windows 系统，建议使用 cmd 版本。
         - WinGui 版本合规性检查会生成 HTML 结果页面，所以需要确保项目路径下有 tempate 项目文件夹
+![image](https://github.com/user-attachments/assets/f1e4ee02-7881-49d3-bf1e-f77cb2eead90)
 
-    ![输入图片说明](GUI_Main.png)
+    
     
    
 2.  EvaluationTools_winCmd_version.exe
