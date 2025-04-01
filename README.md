@@ -68,7 +68,7 @@
     - 视频演示：[EvaluationTools_winCMd 在线完整演示视频](https://www.bilibili.com/video/BV19Y4y147KC)
     - 版本介绍：Windows 命令行版本
     - 适用场景：现场测评
-    - 使用环境：Windows 7/8/10 、Windows Server 2008/2012/2016
+    - 使用环境：Windows 7/8/10/11 、Windows Server 2008/2012/2016
     - 命令解析
         - linux
             - 执行 linux 远程合规性检查任务
@@ -96,7 +96,8 @@
             - 例子:   ` EvaluationTools_winCmd_version.exe help `
     - 注意事项：
         - 命令行版本主要用于对 Windows 系列操作系统进行合规性检查
-![输入图片说明](WinCmd.png)
+![image](https://github.com/user-attachments/assets/fab6709e-4b65-47ab-9c46-53faa37d3a76)
+
 
 
 
@@ -127,14 +128,16 @@
             - 例子:   ` EvaluationTools_winCmd_version.sh help `
     - 注意事项：
         - 命令行版本主要用于对 Linux 系列操作系统进行合规性检查
-![输入图片说明](linuxCmd.png)
+![image](https://github.com/user-attachments/assets/24e1b1d1-4dcb-4494-b001-0b574250a00a)
+
 
 #### 备注
-使用之前，请根据发布版本自行校验文件 Hash 值，确保文件完整性未收到破坏
+使用之前，请根据发布版本自行校验文件 Hash 值，确保文件完整性未受到破坏
 
 1. 为了工具不被滥用，系统使用需导入专业授权文件，授权申请过程：
     - 双击 EvaluationTools_winGui_version.exe （确保同目录下有下载自带的 EvaluationTools-license.lic 文件）
     - 软件路径下会生成	EvaluationTools-license.lic.txt 授权申请码
     - 添加微信:xhuSoul 
     - 将 EvaluationTools-license.lic.txt 文件中的授权申请码通过 VX 发送给作者进行授权申请
-    - ![输入图片说明](vx.png)
+    - ![image](https://github.com/user-attachments/assets/6e36610a-dfbc-4ad1-9f83-3076b5713c5b)
+
